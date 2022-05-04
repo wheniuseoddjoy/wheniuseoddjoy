@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wheniuseoddjoy
+- 👀 I’m interested in RaspberryPi projects
+- 🌱 I’m currently learning Jenkins CI/CD integration
